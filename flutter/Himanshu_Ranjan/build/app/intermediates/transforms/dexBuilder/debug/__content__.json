@@ -2,24 +2,16 @@
   {
     "name": "/home/smoothie/Documents/CodeAsylums-App/flutter/build/app/intermediates/javac/debug/classes",
     "index": 0,
-    "scopes": [
-      "PROJECT"
-    ],
-    "types": [
-      "DEX_ARCHIVE"
-    ],
+    "scopes": ["PROJECT"],
+    "types": ["DEX_ARCHIVE"],
     "format": "DIRECTORY",
     "present": true
   },
   {
     "name": "/home/smoothie/Documents/CodeAsylums-App/flutter/build/app/tmp/kotlin-classes/debug",
     "index": 1,
-    "scopes": [
-      "PROJECT"
-    ],
-    "types": [
-      "DEX_ARCHIVE"
-    ],
+    "scopes": ["PROJECT"],
+    "types": ["DEX_ARCHIVE"],
     "format": "DIRECTORY",
     "present": true
   }
