@@ -47,7 +47,7 @@ class Student extends StatelessWidget {
             ),
             ListTile(
               title: Text('Exit'),
-              
+
               onTap: () {
                 Navigator.pop(context);
               },

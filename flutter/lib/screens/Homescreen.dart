@@ -39,8 +39,8 @@ class _HomeScreenState extends State<HomeScreen> {
 
   Widget build(BuildContext context) {
     return
-      
-    
+
+
      PersistentTabView(
       controller: _controller,
       screens: _buildScreens(),
@@ -69,4 +69,3 @@ class _HomeScreenState extends State<HomeScreen> {
     );
   }
 }
-  

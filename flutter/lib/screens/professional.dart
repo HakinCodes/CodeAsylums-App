@@ -45,7 +45,7 @@ class Professional extends StatelessWidget {
             ),
             ListTile(
               title: Text('Exit'),
-              
+
               onTap: () {
                 Navigator.pop(context);
               },
@@ -102,11 +102,11 @@ class Professional extends StatelessWidget {
               elevation: 8.0,
               shape: CircleBorder(),
               child: ClipRRect(
-                              
+
                               borderRadius: BorderRadius.circular(8.0),child: Image.asset(
                   'assets/teacher.jpg',
                   height: 200,
-                  
+
                 ),
               ),
             ),
@@ -216,7 +216,7 @@ class Professional extends StatelessWidget {
             label: Text(
               "Let's plan a career transformation",
               style: GoogleFonts.abel(color: Colors.white,fontWeight: FontWeight.bold)
-              
+
             ),
             disabledColor: Colors.purple,
           )
