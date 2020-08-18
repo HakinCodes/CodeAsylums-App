@@ -5,9 +5,11 @@ package io.flutter.plugins.pathprovider;
 
 public final class BuildConfig {
   public static final boolean DEBUG = Boolean.parseBoolean("true");
-  public static final String LIBRARY_PACKAGE_NAME = "io.flutter.plugins.pathprovider";
+  public static final String LIBRARY_PACKAGE_NAME =
+      "io.flutter.plugins.pathprovider";
   /**
-   * @deprecated APPLICATION_ID is misleading in libraries. For the library package name use LIBRARY_PACKAGE_NAME
+   * @deprecated APPLICATION_ID is misleading in libraries. For the library
+   *     package name use LIBRARY_PACKAGE_NAME
    */
   @Deprecated
   public static final String APPLICATION_ID = "io.flutter.plugins.pathprovider";
