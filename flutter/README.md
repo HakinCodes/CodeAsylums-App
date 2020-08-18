@@ -1,10 +1,16 @@
-# Flutter Development
+# codeasylum
 
+A new Flutter project.
 
+## Getting Started
 
-### Steps to follow: 
-<ol>
-    <li>Setup environment. To setup flutter environment in your system, follow the steps mentioned <a href=https://flutter.dev/docs/get-started/install>here</a></li>
-    <li>Create a Hello World App</li>
-    <li>Clone the UI from <a href=http://codeasylums.com/>Codeasylums Website</a></li>
-</ol>
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
