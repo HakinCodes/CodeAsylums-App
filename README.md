@@ -13,9 +13,9 @@ Star the repo by pressing the topmost-right button to start your wonderful journ
 
 ### 1. Fork it :fork_and_knife:
 
-You can get your own fork/copy of [CodeAsylums-App](https://github.com/helios1101/CodeAsylums-App) by using the <a href="https://github.com/helios1101/CodeAsylums-App/new/master?readme=1#fork-destination-box"><kbd><b>Fork</b></kbd></a> button or clicking [this](https://github.com/helios1101/CodeAsylums-App/new/master?readme=1#fork-destination-box) at top-right of your screen.
+You can get your own fork/copy of [CodeAsylums-App](https://github.com/HakinCodes/CodeAsylums-App) by using the <a href="https://github.com/HakinCodes/CodeAsylums-App/new/master?readme=1#fork-destination-box"><kbd><b>Fork</b></kbd></a> button or clicking [this](https://github.com/HakinCodes/CodeAsylums-App/new/master?readme=1#fork-destination-box) at top-right of your screen.
 
- [![Fork Button](https://help.github.com/assets/images/help/repository/fork_button.jpg)](https://github.com/helios1101/CodeAsylums-App/)
+ [![Fork Button](https://help.github.com/assets/images/help/repository/fork_button.jpg)](https://github.com/HakinCodes/CodeAsylums-App/)
 
 
 ### 2. Clone it :busts_in_silhouette:
@@ -49,10 +49,10 @@ origin  https://github.com/Your_Username/CodeAsylums-App.git (fetch)
 origin  https://github.com/Your_Username/CodeAsylums-App.git (push)
 ```
 
-Now, let's add a reference to the original [CodeAsylums-App](https://github.com/helios1101/CodeAsylums-App/) repository using
+Now, let's add a reference to the original [CodeAsylums-App](https://github.com/HakinCodes/CodeAsylums-App/) repository using
 
 ```sh
-$ git remote add upstream https://github.com/helios1101/CodeAsylums-App.git
+$ git remote add upstream https://github.com/HakinCodes/CodeAsylums-App.git
 ```
 
 > This adds a new remote named ***upstream***.
@@ -71,8 +71,8 @@ upstream  https://github.com/Remote_Username/CodeAsylums-App.git (push)
 $ git remote -V
 origin    https://github.com/Your_Username/CodeAsylums-App.git (fetch)
 origin    https://github.com/Your_Username/CodeAsylums-App.git (push)
-upstream  https://github.com/helios1101/CodeAsylums-App.git (fetch)
-upstream  https://github.com/helios1101/CodeAsylums-App.git (push)
+upstream  https://github.com/HakinCodes/CodeAsylums-App.git (fetch)
+upstream  https://github.com/HakinCodes/CodeAsylums-App.git (push)
 ```
 
 ### 4. Sync it :recycle:
@@ -96,7 +96,7 @@ $ git push origin master
 
 ### 5. Ready Steady Go... :turtle: :rabbit2:
 
-Once you have completed these steps, you are ready to start contributing by checking our `Help Wanted` Issues and creating [pull requests](https://github.com/helios1101/CodeAsylums-App/pulls).
+Once you have completed these steps, you are ready to start contributing by checking our `Help Wanted` Issues and creating [pull requests](https://github.com/HakinCodes/CodeAsylums-App/pulls).
 
 ### 6. Create a new branch :bangbang:
 
