@@ -143,6 +143,6 @@ Then add a title and description to your pull request that explains your preciou
 
 ## Help Contributing Guides :crown:
 
-Please discuss it with us first by creating a new issue.
+Please refer to CONTRIBUTING.md for contributing to this project.
 
 :tada: :confetti_ball: :smiley: _**Happy Contributing**_ :smiley: :confetti_ball: :tada:
